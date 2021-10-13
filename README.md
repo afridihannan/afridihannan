@@ -22,6 +22,7 @@
 <p align="center">
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=afridihannan&show_icons=true&theme=jolly" />
   <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afridihannan&theme=jolly" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=afridihannan&layout=compact&title_color=FF00FF&icon_color=white&text_color=FF66FF&bg_color=000000"/>
 </p>
 <!-- ![Hannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afridihannan&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52) -->
 <br/><br/>
