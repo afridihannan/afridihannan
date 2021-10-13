@@ -2,6 +2,7 @@
 ### I am a MERN Developer Enthusiast
 <br/><br/>
 
+
 <a target="_blank" href="https://www.linkedin.com/in/hannan-afridi-39ab0b203">
   <img align="left" alt="Hannan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,13 +19,13 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <br/><br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=afridihannan&show_icons=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afridihannan&theme=jolly" />
-</p>
+
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=afridihannan&show_icons=true&theme=jolly" />
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afridihannan&theme=jolly" />
+
 <!-- ![Hannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afridihannan&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52) -->
 <br/><br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afridihannan&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52)<!--(https://github.com/afridihannan)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afridihannan&layout=compact&title_color=FF00FF&icon_color=white&text_color=FF66FF&bg_color=000000)<!--(https://github.com/afridihannan)-->
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=afridihannan&layout=compact&theme=dracula" /> -->
 <!--
