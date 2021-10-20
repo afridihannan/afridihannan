@@ -24,6 +24,10 @@
   <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afridihannan&theme=jolly" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=afridihannan&layout=compact&title_color=FF00FF&icon_color=white&text_color=FF66FF&bg_color=000000"/>
 </p>
+<h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=afridihannan&theme=monokai&row=1&column=8">
+  </a>
 <!-- ![Hannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afridihannan&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52) -->
 <br/><br/>
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afridihannan&layout=compact&title_color=FF00FF&icon_color=white&text_color=FF66FF&bg_color=000000)(https://github.com/afridihannan) -->
