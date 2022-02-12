@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Hannan
-### I am a MERN Developer Enthusiast
+### I am a MERN Developer Enthusiast and a Competitive Coder
 <br/><br/>
 
 
